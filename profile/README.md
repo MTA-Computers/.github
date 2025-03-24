@@ -20,21 +20,6 @@ Ensure you have the following installed:
 - Vue CLI
 - (Any other dependencies)
 
-### Steps
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/mta.co.ug.git
-   cd mta.co.ug
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Start the development server:
-   ```sh
-   npm run serve
-   ```
-
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
