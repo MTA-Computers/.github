@@ -1,19 +1,16 @@
-# MTA.co.ug
+# MTA Computers Ltd
 
-Welcome to the **MTA.co.ug** repository! This project is designed to provide a seamless platform for managing multiple grants, integrating Vue.js for the frontend and OneSignal for notifications.
+Welcome to the **MTA Computers Ltd** organization!
 
-## 🚀 Features
-- Grant management system
-- Granter and grant tracking
-- Vue.js frontend
-- OneSignal integration for notifications
-- Secure and scalable architecture
+## 🚀 Softwares
+- Afrimed Health Software
+- Teleka Financial Inclusion Software
+- SchoolDynamics Software
 
 ## 📦 Tech Stack
 - **Frontend:** Vue.js
-- **Notifications:** OneSignal
-- **Backend:** (Specify your backend stack here)
-- **Database:** (Specify your database)
+- **Backend:** Laravel PHP
+- **Database:** Mysql 
 
 ## 🛠 Installation
 
