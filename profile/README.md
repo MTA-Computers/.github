@@ -35,15 +35,9 @@ Ensure you have the following installed:
    npm run serve
    ```
 
-## 🚀 Deployment
-Provide details on how to deploy the project to production.
-
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-We welcome contributions! Please submit a pull request or open an issue to discuss improvements.
-
 ## 📞 Contact
-For inquiries, please reach out at [your contact email] or visit [mta.co.ug](https://mta.co.ug).
+For inquiries, please reach out at support@mta.co.ug or visit [mta.co.ug](https://mta.co.ug).
 
