@@ -12,9 +12,7 @@ Welcome to the **MTA Computers Ltd** organization!
 - **Backend:** Laravel PHP
 - **Database:** Mysql 
 
-## 🛠 Installation
-
-### Prerequisites
+## 🛠 Prerequisites
 Ensure you have the following installed:
 - Node.js & npm
 - Vue CLI
