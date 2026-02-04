@@ -4,13 +4,13 @@ Welcome to the **MTA Computers Ltd** organization!
 
 ## 🚀 Softwares
 - Afrimed Health Software
-- Teleka Financial Inclusion Software
+- Tandika Core SACCO Software
 - SchoolDynamics Software
 
 ## 📦 Tech Stack
 - **Frontend:** Vue.js
 - **Backend:** Laravel PHP
-- **Database:** Mysql 
+- **Database:** Postgres
 
 ## 🛠 Prerequisites
 Ensure you have the following installed:
