@@ -324,7 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### *"You Demand It, We Deliver It"*
 
-**© 2026 MTA Computers Ltd** | *20+ Years of IT Excellence in Uganda*
+**© 2026 Tandika Technologies Ltd** | *20+ Years of IT Excellence in Uganda*
 
 *Elevating Your IT Business To The Next Level*
 
