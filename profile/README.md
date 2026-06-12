@@ -206,47 +206,6 @@ Rate
 
 ---
 
-## 🔧 Development Setup
-
-### Prerequisites
-
-Before working with our repositories, ensure you have the following installed:
-
-```bash
-# Node.js & npm (for Vue.js frontend)
-node --version  # v16.x or higher
-npm --version   # v8.x or higher
-
-# Composer (for Laravel backend)
-composer --version  # v2.x or higher
-
-# PHP
-php --version  # v8.0 or higher
-
-# PostgreSQL
-psql --version  # v13.x or higher
-```
-
-### Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/mta-computers/[project-name]
-
-# Install frontend dependencies
-cd frontend
-npm install
-npm run dev
-
-# Install backend dependencies
-cd ../backend
-composer install
-php artisan migrate
-php artisan serve
-```
-
----
-
 ## 🌟 Our Service Areas
 
 <div align="center">
