@@ -6,8 +6,8 @@
 
 ### *Your Partner in Digital Transformation*
 
-[![Website](https://img.shields.io/badge/Website-mta.co.ug-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mta.co.ug)
-[![Email](https://img.shields.io/badge/Email-support@mta.co.ug-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@mta.co.ug)
+[![Website](https://img.shields.io/badge/Website-tandikatechnologies.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tandikatechnologies.com)
+[![Email](https://img.shields.io/badge/Email-info@tandikatechnologies.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tandikatechnologies.com)
 [![Phone](https://img.shields.io/badge/Phone-+256_414_341_010-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+256414341010)
 
 **📍 Plot 20 Lumumba Avenue, Piato Building, Kampala, Uganda**
