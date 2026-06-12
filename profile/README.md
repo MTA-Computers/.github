@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://mta.co.ug/wp-content/uploads/2025/02/MTA-LOGO-NEW-1.jpg" alt="MTA Computers Ltd" width="300"/>
+<img src="https://tandikatechnologies.com/assets/tandika-logo-B22Byx9K.jpg" alt="Tandika Technologies Ltd" width="300"/>
 
-# MTA Computers Ltd
+# Tandika Technologies Ltd
 
 ### *Your Partner in Digital Transformation*
 
@@ -18,9 +18,9 @@
 
 ---
 
-## 🏢 About MTA Computers Ltd
+## 🏢 About Tandika Technologies Ltd
 
-**MTA Computers Ltd** is Uganda's premier end-to-end **Software and Hardware Solutions** company with over **two decades** of industry experience. We deliver cutting-edge technology solutions that empower businesses to thrive in the digital age.
+**Tandika Technologies Ltd** is Uganda's premier end-to-end **Software and Hardware Solutions** company with over **two decades** of industry experience. We deliver cutting-edge technology solutions that empower businesses to thrive in the digital age.
 
 <div align="center">
 
@@ -29,11 +29,11 @@
 
 </div>
 
-### Why Choose MTA?
+### Why Choose Tandika Technologies?
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  ✅  20+ Years of Excellence in IT Solutions                    │
+│  ✅  5+ Years of Excellence in IT Solutions                    │
 │  ✅  ISO Certified Company - Quality Assured                    │
 │  ✅  Trusted by Government & Private Institutions               │
 │  ✅  Comprehensive Support & Maintenance Services               │
